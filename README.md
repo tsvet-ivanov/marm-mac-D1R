@@ -1,6 +1,7 @@
 Scripts to reproduce Figures 6 and 8 in:
 
-Mary Kate P. Joyce*, Tsvetoslav G. Ivanov*, Fenna M. Krienen, Jude F. Mitchell, Shaojie Ma, Wataru Inoue, Anirvan S. Nandy, Dibyadeep Datta, Alvaro Duque, Jon I. Arellano, Rahul Gupta, Guillermo Gonzalez-Burgos, David A. Lewis, Nenad Sestan, Steven A. McCarroll, Julio Martinez-Trujillo, Seán Froudist-Walsh+, Amy F. T. Arnsten+. "Higher dopamine D1 receptor expression in prefrontal parvalbumin neurons underlies higher distractibility in marmosets versus macaques." Commmunications Biology (2025).
+Mary Kate P. Joyce*, Tsvetoslav G. Ivanov*, Fenna M. Krienen, Jude F. Mitchell, Shaojie Ma, Wataru Inoue, Anirvan S. Nandy, Dibyadeep Datta, Alvaro Duque, Jon I. Arellano, Rahul Gupta, Guillermo Gonzalez-Burgos, David A. Lewis, Nenad Sestan, Steven A. McCarroll, Julio Martinez-Trujillo, Seán Froudist-Walsh+, Amy F. T. Arnsten+. "Higher dopamine D1 receptor expression in prefrontal parvalbumin neurons underlies higher distractibility in marmosets versus macaques." Commmunications Biology 8, 974 (2025). https://doi.org/10.1038/s42003-025-08297-0
+
 
 Scripts are variant form of:
 
